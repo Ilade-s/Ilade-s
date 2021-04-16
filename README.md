@@ -1,6 +1,6 @@
 ## Salut à vous !
 ### J'espère que vous apprécirez mon travail !
-### Si vous avez une suggestion ou trouvé un bug, n'hésitez pas à me le signaler dans le repo correspondant (issue)
+### Si vous avez une suggestion ou trouvé un bug, n'hésitez pas à me le signaler
 <!--
 **Ilade-s/Ilade-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
