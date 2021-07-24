@@ -1,7 +1,10 @@
 ## Salut à vous !
 ### J'espère que vous apprécirez mon travail !
 ### Si vous avez une suggestion ou trouvé un bug, n'hésitez pas à me le signaler
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilade-s&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilade-s&theme=cobalt) 
+--------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilade-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Ilade-s/Ilade-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
