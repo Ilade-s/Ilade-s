@@ -1,5 +1,5 @@
 ## Salut à vous !
-### J'espère que vous apprécirez mon travail !
+### J'espère que vous apprécierez mon travail !
 ### Si vous avez une suggestion ou trouvé un bug, n'hésitez pas à me le signaler
 
 <!--
